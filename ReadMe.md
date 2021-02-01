@@ -25,7 +25,7 @@ Phone: +1 857-269-6180
     
     e. https://dev.socrata.com/docs/filtering.html 
     
- 3. Given that we need to develop pipeline for parallel load from different NY counties, we need to user api to get json response, parse it for bulk inserts to database. We need to use API with filters.
+ 3. Given that we need to develop pipeline for parallel load from different NY counties, we need to use api to get json response, parse it for bulk inserts to database. We need to use API with filters.
  
  ### C. Database Design:
  1. Postgres database is the requirement for the data maintenance with docker image for the same.
